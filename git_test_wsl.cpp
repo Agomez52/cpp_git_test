@@ -1,7 +1,7 @@
 #include "git_test_wsl.hpp"
 
 int main() {
-    cout << "Hello World!" << endl;
+    print_message("Hello, World!");
 
     return 0;
 }
